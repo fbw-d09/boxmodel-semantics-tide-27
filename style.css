@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(55, 55, 205);
+}
+
+h2,
+h3 {
+  color: rgb(192, 57, 234);
+  text-align: center;
+}
+h2 {
+  background-color: rgb(137, 199, 98);
+  border-radius: 50%;
+}
+
+.section {
+  background-color: rgb(140, 255, 127);
+  column-count: 2;
+  /* display: table-row; */
+  margin: 10px;
+  overflow: hidden;
+}
+
+/* .section1{
+    .textcols-left {
+        float: left;
+        width: 48%;
+        background: #fff2e1;
+}
+
+.section2{
+    .textcols-right {
+        float: right;
+        width: 48%;
+        background: #fff2e1; 
+}
+
+.section {
+    overflow: hidden;
+} */
